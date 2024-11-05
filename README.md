@@ -13,3 +13,4 @@ Bob
 Bob (role 2) commit 
 
 Alice 3
+Bob (role 2) commit (ver 2.1)
